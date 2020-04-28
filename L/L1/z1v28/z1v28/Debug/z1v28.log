@@ -1,0 +1,103 @@
+﻿  z1v28.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cstdlib(19): error C2061: синтаксическая ошибка: идентификатор "noexcept"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cstdlib(19): error C2059: синтаксическая ошибка: ;
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cstdlib(20): error C2449: имеется "{" в пределах области видимости файла (возможно, отсутствует заголовок функции)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cstdlib(22): error C2059: синтаксическая ошибка: }
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cstdlib(29): error C2061: синтаксическая ошибка: идентификатор "noexcept"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cstdlib(29): error C2059: синтаксическая ошибка: ;
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cstdlib(30): error C2449: имеется "{" в пределах области видимости файла (возможно, отсутствует заголовок функции)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cstdlib(32): error C2059: синтаксическая ошибка: }
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(16): error C2061: синтаксическая ошибка: идентификатор "noexcept"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(16): error C2059: синтаксическая ошибка: ;
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(17): error C2449: имеется "{" в пределах области видимости файла (возможно, отсутствует заголовок функции)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(22): error C2059: синтаксическая ошибка: }
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(29): error C2061: синтаксическая ошибка: идентификатор "noexcept"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(29): error C2059: синтаксическая ошибка: ;
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(30): error C2449: имеется "{" в пределах области видимости файла (возможно, отсутствует заголовок функции)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(32): error C2059: синтаксическая ошибка: }
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(39): error C2061: синтаксическая ошибка: идентификатор "noexcept"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(39): error C2059: синтаксическая ошибка: ;
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(40): error C2449: имеется "{" в пределах области видимости файла (возможно, отсутствует заголовок функции)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(42): error C2059: синтаксическая ошибка: }
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(49): error C2061: синтаксическая ошибка: идентификатор "noexcept"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(49): error C2059: синтаксическая ошибка: ;
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(50): error C2449: имеется "{" в пределах области видимости файла (возможно, отсутствует заголовок функции)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(52): error C2059: синтаксическая ошибка: }
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(59): error C2061: синтаксическая ошибка: идентификатор "noexcept"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(59): error C2059: синтаксическая ошибка: ;
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(60): error C2449: имеется "{" в пределах области видимости файла (возможно, отсутствует заголовок функции)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(62): error C2059: синтаксическая ошибка: }
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(70): error C2061: синтаксическая ошибка: идентификатор "noexcept"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(70): error C2059: синтаксическая ошибка: ;
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(71): error C2449: имеется "{" в пределах области видимости файла (возможно, отсутствует заголовок функции)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(73): error C2059: синтаксическая ошибка: }
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(80): error C2061: синтаксическая ошибка: идентификатор "noexcept"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(80): error C2059: синтаксическая ошибка: ;
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(81): error C2449: имеется "{" в пределах области видимости файла (возможно, отсутствует заголовок функции)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(83): error C2059: синтаксическая ошибка: }
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(90): error C2061: синтаксическая ошибка: идентификатор "noexcept"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(90): error C2059: синтаксическая ошибка: ;
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(91): error C2449: имеется "{" в пределах области видимости файла (возможно, отсутствует заголовок функции)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(93): error C2059: синтаксическая ошибка: }
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(100): error C2061: синтаксическая ошибка: идентификатор "noexcept"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(100): error C2059: синтаксическая ошибка: ;
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(101): error C2449: имеется "{" в пределах области видимости файла (возможно, отсутствует заголовок функции)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(103): error C2059: синтаксическая ошибка: }
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(110): error C2061: синтаксическая ошибка: идентификатор "noexcept"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(110): error C2059: синтаксическая ошибка: ;
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(111): error C2449: имеется "{" в пределах области видимости файла (возможно, отсутствует заголовок функции)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(113): error C2059: синтаксическая ошибка: }
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(120): error C2061: синтаксическая ошибка: идентификатор "noexcept"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(120): error C2059: синтаксическая ошибка: ;
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(121): error C2449: имеется "{" в пределах области видимости файла (возможно, отсутствует заголовок функции)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(123): error C2059: синтаксическая ошибка: }
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(131): error C2061: синтаксическая ошибка: идентификатор "noexcept"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(131): error C2059: синтаксическая ошибка: ;
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(132): error C2449: имеется "{" в пределах области видимости файла (возможно, отсутствует заголовок функции)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(134): error C2059: синтаксическая ошибка: }
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(141): error C2061: синтаксическая ошибка: идентификатор "noexcept"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(141): error C2059: синтаксическая ошибка: ;
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(142): error C2449: имеется "{" в пределах области видимости файла (возможно, отсутствует заголовок функции)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(144): error C2059: синтаксическая ошибка: }
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(151): error C2061: синтаксическая ошибка: идентификатор "noexcept"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(151): error C2059: синтаксическая ошибка: ;
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(152): error C2449: имеется "{" в пределах области видимости файла (возможно, отсутствует заголовок функции)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(154): error C2059: синтаксическая ошибка: }
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(161): error C2061: синтаксическая ошибка: идентификатор "noexcept"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(161): error C2059: синтаксическая ошибка: ;
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(162): error C2449: имеется "{" в пределах области видимости файла (возможно, отсутствует заголовок функции)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(164): error C2059: синтаксическая ошибка: }
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(171): error C2061: синтаксическая ошибка: идентификатор "noexcept"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(171): error C2059: синтаксическая ошибка: ;
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(172): error C2449: имеется "{" в пределах области видимости файла (возможно, отсутствует заголовок функции)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(174): error C2059: синтаксическая ошибка: }
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(181): error C2061: синтаксическая ошибка: идентификатор "noexcept"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(181): error C2059: синтаксическая ошибка: ;
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(182): error C2449: имеется "{" в пределах области видимости файла (возможно, отсутствует заголовок функции)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(184): error C2059: синтаксическая ошибка: }
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(191): error C2061: синтаксическая ошибка: идентификатор "noexcept"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(191): error C2059: синтаксическая ошибка: ;
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(192): error C2449: имеется "{" в пределах области видимости файла (возможно, отсутствует заголовок функции)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(194): error C2059: синтаксическая ошибка: }
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(201): error C2061: синтаксическая ошибка: идентификатор "noexcept"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(201): error C2059: синтаксическая ошибка: ;
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(202): error C2449: имеется "{" в пределах области видимости файла (возможно, отсутствует заголовок функции)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(204): error C2059: синтаксическая ошибка: }
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(211): error C2061: синтаксическая ошибка: идентификатор "noexcept"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(211): error C2059: синтаксическая ошибка: ;
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(212): error C2449: имеется "{" в пределах области видимости файла (возможно, отсутствует заголовок функции)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(214): error C2059: синтаксическая ошибка: }
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(221): error C2061: синтаксическая ошибка: идентификатор "noexcept"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(221): error C2059: синтаксическая ошибка: ;
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(222): error C2449: имеется "{" в пределах области видимости файла (возможно, отсутствует заголовок функции)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(224): error C2059: синтаксическая ошибка: }
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(232): error C2061: синтаксическая ошибка: идентификатор "noexcept"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(232): error C2059: синтаксическая ошибка: ;
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(233): error C2449: имеется "{" в пределах области видимости файла (возможно, отсутствует заголовок функции)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(235): error C2059: синтаксическая ошибка: }
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(243): error C2061: синтаксическая ошибка: идентификатор "noexcept"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(243): error C2059: синтаксическая ошибка: ;
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(244): error C2449: имеется "{" в пределах области видимости файла (возможно, отсутствует заголовок функции)
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(249): error C2059: синтаксическая ошибка: }
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(257): error C2061: синтаксическая ошибка: идентификатор "noexcept"
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.14.26428\include\cmath(257): fatal error C1003: число ошибок превышает 100; остановка компиляции

@@ -1,0 +1,6 @@
+﻿  z1.c
+c:\users\user\desktop\программирование\l6\z1\z1\z1.c(9): warning C4091: typedef : пропускается слева от "MyBinTree", когда ни одна переменная не объявлена
+c:\users\user\desktop\программирование\l6\z1\z1\z1.c(26): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\user\desktop\программирование\l6\z1\z1\z1.c(42): warning C4013: realloc: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\user\desktop\программирование\l6\z1\z1\z1.c(61): warning C4013: getch: нет определения; предполагается "extern" с возвратом типа "int"
+  Z1.vcxproj -> C:\Users\User\Desktop\Программирование\L6\Z1\Debug\Z1.exe

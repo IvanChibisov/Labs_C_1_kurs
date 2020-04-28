@@ -1,0 +1,5 @@
+﻿  Z1.c
+c:\users\иван\desktop\программирование\l5\z1\z1\z1.c(9): warning C4091: typedef : пропускается слева от "List", когда ни одна переменная не объявлена
+c:\users\иван\desktop\программирование\l5\z1\z1\z1.c(58): warning C4013: system: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\иван\desktop\программирование\l5\z1\z1\z1.c(78): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+  Z1.vcxproj -> C:\Users\Иван\Desktop\Программирование\L5\Z1\Debug\Z1.exe

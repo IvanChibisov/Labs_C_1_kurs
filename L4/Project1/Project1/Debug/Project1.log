@@ -1,0 +1,4 @@
+﻿  Z1.c
+c:\users\user\desktop\программирование\l4\project1\project1\z1.c(56): error C2440: =: невозможно преобразовать "int" в "status_type"
+c:\users\user\desktop\программирование\l4\project1\project1\z1.c(58): warning C4013: malloc: нет определения; предполагается "extern" с возвратом типа "int"
+c:\users\user\desktop\программирование\l4\project1\project1\z1.c(63): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"

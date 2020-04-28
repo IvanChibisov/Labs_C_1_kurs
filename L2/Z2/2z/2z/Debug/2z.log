@@ -1,0 +1,5 @@
+﻿  2z.c
+c:\users\иван\desktop\программирование\l2\z2\2z\2z\2z.c(20): warning C4244: +=: преобразование "long double" в "float", возможна потеря данных
+c:\users\иван\desktop\программирование\l2\z2\2z\2z\2z.c(18): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+c:\users\иван\desktop\программирование\l2\z2\2z\2z\2z.c(21): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  2z.vcxproj -> C:\Users\Иван\Desktop\Программирование\L2\Z2\2z\Debug\2z.exe

@@ -1,0 +1,4 @@
+﻿  z1.c
+c:\users\иван\desktop\программирование\l3\z1\l3\l3\z1.c(38): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\иван\desktop\программирование\l3\z1\l3\l3\z1.c(74): warning C4101: Rand: неиспользованная локальная переменная
+  L3.vcxproj -> C:\Users\Иван\Desktop\Программирование\L3\z1\L3\Debug\L3.exe

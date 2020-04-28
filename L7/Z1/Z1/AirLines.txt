@@ -1,0 +1,3 @@
+"1001" "SSJ 100 0" "Minsk-London" "Warshawa Paris" "1170" "monday wednesday thursday" 
+"1002" "Boing 150 2" "Minsk-Moskow" "Mogilev" "731" "monday friday sunday" 
+"1003" "AeroBus 300 296" "Minsk-Paris" "Warshawa Berlin" "675" "tuesday saturday" 
